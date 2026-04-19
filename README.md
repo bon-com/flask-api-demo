@@ -1,0 +1,2 @@
+ - Claude Codeにて簡易API自動生成
+ - GitHub MCP経由で自動でリポジトリ作成～コミットプッシュした
